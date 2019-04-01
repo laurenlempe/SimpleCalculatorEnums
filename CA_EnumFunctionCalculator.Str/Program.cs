@@ -34,7 +34,7 @@ namespace CA_EnumCalculator
             int operandCount=1;
             Operation operation = Operation.NONE;
             bool quitting = false, validResponse = true;
-
+            
             DisplayOpeningScreen();
 
             //
